@@ -1,6 +1,6 @@
 # 🧪 Experimento A/B — Landing Page
 
-**Proyecto de Ciencia de Datos | TripleTen**
+**Proyecto de Análisis de datos | TripleTen**
 
 ---
 
